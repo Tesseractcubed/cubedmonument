@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 07. 01. 2024
+  Changes:
+    - Filled file tree with all files: required, optional, and good practice.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.0
+Date: 07. 01. 2024
+  Category Name:
+    - Specific Changelog Entry.
+  Changes:
+    - Formatting layout for Changelog created.

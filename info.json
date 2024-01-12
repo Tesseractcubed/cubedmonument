@@ -1,0 +1,9 @@
+{
+    "name": "cubedmonument",
+    "version": "0.0.1",
+    "title": "Cubed's Monument Mod",
+    "author": "Tesseractcubed",
+    "description": "A mod that creates a simple monument to remember the first satellite launch.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+  }
